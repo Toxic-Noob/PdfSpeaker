@@ -42,6 +42,20 @@ Any kind of Suggestions are welcomed. This tool may have aome Bugs, please take 
 
 #### There are many more commands and functionalities in the Tool. Use ```/help``` To see them.
 
+### Setup Environment:
+[*] Windows
+
+### Installation Commands:
+```
+apt update -y
+apt upgrade -y
+pkg install python git -y
+git clone https://github.com/toxic-noob/PdfSpeaker
+cd PdfSpeaker
+python setup.py # Setup your environment First!
+python speaker.py
+```
+
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
 <li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
