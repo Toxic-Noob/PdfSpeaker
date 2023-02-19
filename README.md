@@ -41,3 +41,17 @@ Any kind of Suggestions are welcomed. This tool may have aome Bugs, please take 
 * ``` /exit ``` : Exit The Program
 
 #### There are many more commands and functionalities in the Tool. Use ```/help``` To see them.
+
+## Contact :
+For Any Help or Suggestions, Contact With Us:
+<li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
+
+## Tool Screenshots:
+<img src="https://a.top4top.io/p_2606si4xv2.jpg" alt="PdfSpeaker Help Guid">
+<img src="https://l.top4top.io/p_26067gyjr3.jpg" alt="pdfSpeaker Info">
+
+##### There is one of my Future Plan's hint in the Tool 😉
+
+### Visitors :
+
+![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
