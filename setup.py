@@ -25,6 +25,7 @@ userDevice = getDevice()
 os.system("pip install PyPDF2")
 os.system("pip install googletrans")
 os.system("pip install pyttsx3")
+os.system("termux-setup-storage")
 
 
 if (userDevice == "Android"):
