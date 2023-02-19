@@ -44,8 +44,17 @@ Any kind of Suggestions are welcomed. This tool may have aome Bugs, please take 
 
 ### Setup Environment:
 [*] Windows
+* Install pywin32 Module Before Using or You may get Error using pyttsx3
+> pip install pywin32
 
-### Installation Commands:
+[*] Linux
+* Install espeak, ffmpeg and libespeak1 if you get any Error while using PdfSpeaker
+> sudo apt install espeak ffmpeg libespeak1
+
+[*] Android (Termux)
+* Install <a href="https://f-droid.org/en/packages/com.termux.api/">Termux-Api</a> Apk in your device. It is Required to use Text-To-Speech
+
+### Installation Commands for Linux and Termux:
 ```
 apt update -y
 apt upgrade -y
@@ -55,6 +64,12 @@ cd PdfSpeaker
 python setup.py # Setup your environment First!
 python speaker.py
 ```
+### Installation process in Windows:
+* Install python 3.11 in your Windows
+* Download this Repo as a Zip file
+* Unzip downloaded file.
+* Enjoy...
+
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
