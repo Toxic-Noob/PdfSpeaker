@@ -1,2 +1,3 @@
 # PdfSpeaker
-This is a Pdf Speaker Tool. You can read out loud any PDF using PDFSpeaker
+### Not finished Yet!
+### Wait till Tonight
